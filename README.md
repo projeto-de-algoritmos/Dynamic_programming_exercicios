@@ -17,7 +17,7 @@ O projeto consiste na resolução de exercícios sobre o conteúdo de Programaç
 ![Enunciado01](./enunciados/enunciadoEx01.png) 
 
 #### Exercício 2: 
-![Enunciado01](./enunciados/) 
+![Enunciado01](./enunciados/enunciadoEx02.png) 
 
 #### Exercício 3: <link>
 
@@ -25,12 +25,11 @@ O projeto consiste na resolução de exercícios sobre o conteúdo de Programaç
 
 ## Soluções/Submissões
 ### Exercício 1
-![Exercicio 1 enunciado](./enunciados/enunciadoEx01.png)
+
 ![Exercicio 1 code](./submissoes/ex1code.png)
 ![Exercicio 1 submit](./submissoes/ex1submit.png)
 
 ### Exercício 2
-![Exercicio 2 enunciado](./enunciados/enunciadoEx02.png)
 ![Exercicio 2 code](./submissoes/ex2code.png)
 ![Exercicio 2 submit](./submissoes/ex2submit.png)
 
